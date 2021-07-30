@@ -1,0 +1,41 @@
+
+h1 {
+    text-align: center;
+    color: brown;
+    
+}
+
+/** {
+    border: solid;
+}*/
+
+.header {
+    text-align: center;
+    background-color:rgba(0, 183, 255, 0.719);
+    display: flex;
+    justify-content:space-between;
+    
+
+
+}
+
+.grid {
+  display:flex;
+  flex-wrap: wrap;
+  justify-content:space-evenly;
+    
+}
+
+.footer {
+    display:flex;
+    justify-content:flex-end;
+}
+
+p,h2{
+    text-align: center;
+
+}
+
+.Name {
+    text-align:center;
+}
